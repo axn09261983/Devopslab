@@ -9,5 +9,6 @@ tomorrow is 03042022
 We are testing conflict concept and change added to remotr
 local repo for conflict test
 
-Ashish is testing conflict resloved issue. 
+Ashish is testing conflict resloved issue.
+some other way to test conflict
 
